@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reotte
 - 👀 I’m interested in Web Apps and Games!
-- 🌱 I’m currently learning ASP.NET MVC, Java, JS, C#, C++
+- 🌱 I’m currently learning Blazor WASM, MAUI, JS, C#, C++
 - 💞️ I’m looking to collaborate on ...nothing.
 - 📫 How to reach me: don't, pls Q_Q
 
